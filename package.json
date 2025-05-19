@@ -1,5 +1,6 @@
 {
   "name": "deploy-application",
+  "homepage":"https://DjamelBourourou.github.io/deploy-application",
   "private": true,
   "version": "0.0.0",
   "type": "module",
